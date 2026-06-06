@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="feed.xsl"?>
+<rss version="2.0">
+<channel>
+<title>Bytewise Daily</title>
+<link>https://hongyinyew.github.io/bytewise-daily-site/</link>
+<description>Tech news, decoded daily.</description>
+<item>
+<title>Frontier AI on Edge Devices</title>
+<link>https://hongyinyew.github.io/bytewise-daily-site/posts/2026-06-06-frontier-ai-on-edge-devices.html</link>
+<guid>2026-06-06-frontier-ai-on-edge-devices</guid>
+<pubDate>2026-06-06T03:06:59.816103+00:00</pubDate>
+<description>Launch HN: General Instinct (YC P26) – Frontier models on edge devices</description>
+</item><item>
+<title>The Web Built for Machines</title>
+<link>https://hongyinyew.github.io/bytewise-daily-site/posts/2026-06-05-the-web-built-for-machines.html</link>
+<guid>2026-06-05-the-web-built-for-machines</guid>
+<pubDate>2026-06-05T12:42:36.364103+00:00</pubDate>
+<description>Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?</description>
+</item>
+</channel>
+</rss>
